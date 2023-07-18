@@ -25,7 +25,6 @@ const bookSlice = createSlice({
         },
         setPublicationYear: (state, action: PayloadAction<string>) => {
             const isExist = state.publicationYears.find(year => year === action.payload);
-
             if (isExist) {
                 state.publicationYears = state.publicationYears.filter(year => year !== action.payload);
             } else {
