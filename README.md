@@ -4,3 +4,5 @@
 **Client - Side :
 <li>Typescript</li>
 <li>Redux</li>
+<li>Firebase</li>
+<li>Tailwind</li>
