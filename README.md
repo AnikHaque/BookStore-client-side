@@ -6,3 +6,4 @@
 <li>Redux</li>
 <li>Firebase</li>
 <li>Tailwind</li>
+<li>React Router</li>
