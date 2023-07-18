@@ -2,7 +2,7 @@
 <h3>Live Site: <a href="https://book-store-client-side.vercel.app/">https://book-store-client-side.vercel.app/</a></h1>
 <b>Technology Used in this application:</b>
 
-**<h5>Client - Side :</h5>
+<h2>Client - Side :</h2>
 <li>Typescript</li>
 <li>Redux</li>
 <li>Firebase</li>
