@@ -9,7 +9,7 @@
 <li>Tailwind</li>
 <li>React Router</li>
 
-** Server - Side :
+<h2>Server - Side :</h2>
 <li>Typescript</li>
 <li>Node.js</li>
 <li>Express.js</li>
