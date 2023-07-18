@@ -17,7 +17,6 @@ const bookSlice = createSlice({
     reducers: {
         setGenre: (state, action: PayloadAction<string>) => {
             const isExist = state.genres.find(genre => genre === action.payload);
-
             if (isExist) {
                 state.genres = state.genres.filter(genre => genre !== action.payload);
             } else {
