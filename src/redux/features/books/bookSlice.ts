@@ -35,5 +35,4 @@ const bookSlice = createSlice({
 });
 
 export const { setGenre, setPublicationYear } = bookSlice.actions;
-
 export default bookSlice.reducer;
