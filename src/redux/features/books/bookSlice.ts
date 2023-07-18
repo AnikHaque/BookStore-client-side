@@ -10,7 +10,6 @@ const initialState: IBook = {
     genres: [],
     publicationYears: [],
 };
-
 const bookSlice = createSlice({
     name: 'book',
     initialState,
